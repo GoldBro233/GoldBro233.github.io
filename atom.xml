@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Goldbro&#39;s Pants</title>
+  <icon>https://www.gravatar.com/avatar/0319d58181822c92fe2ccd32bc878a87</icon>
+  <subtitle>codes,photos,and stories</subtitle>
+  <link href="https://goldbro.top/atom.xml" rel="self"/>
+  
+  <link href="https://goldbro.top/"/>
+  <updated>2023-07-20T15:46:11.358Z</updated>
+  <id>https://goldbro.top/</id>
+  
+  <author>
+    <name>Bowen Sun</name>
+    <email>BowenSun_06@outlook.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://goldbro.top/2023/07/20/test/"/>
+    <id>https://goldbro.top/2023/07/20/test/</id>
+    <published>2023-07-20T15:45:46.000Z</published>
+    <updated>2023-07-20T15:46:11.358Z</updated>
+    
+    <content type="html"><![CDATA[<p>尝试先用一篇文章来填充这个库。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;尝试先用一篇文章来填充这个库。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
