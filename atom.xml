@@ -6,7 +6,7 @@
   <link href="https://goldbro.top/atom.xml" rel="self"/>
   
   <link href="https://goldbro.top/"/>
-  <updated>2023-07-20T15:46:11.358Z</updated>
+  <updated>2023-07-21T00:57:08.209Z</updated>
   <id>https://goldbro.top/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Photo Share</title>
+    <link href="https://goldbro.top/2023/07/21/Photo-Share/"/>
+    <id>https://goldbro.top/2023/07/21/Photo-Share/</id>
+    <published>2023-07-21T00:30:00.000Z</published>
+    <updated>2023-07-21T00:57:08.209Z</updated>
+    
+    <content type="html"><![CDATA[<p>上传一张照片来测试一下图床功能。<br>所使用的是微博图床。<br>照片使用的是 Canon 500D 28mm-F1.8<br><img src="https://s1.ax1x.com/2023/07/21/pCHbplR.jpg" alt="pCHbplR.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;上传一张照片来测试一下图床功能。&lt;br&gt;所使用的是微博图床。&lt;br&gt;照片使用的是 Canon 500D 28mm-F1.8&lt;br&gt;&lt;img src=&quot;https://s1.ax1x.com/2023/07/21/pCHbplR.jpg&quot; alt=&quot;pCHbplR.jpg&quot;&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="Photo" scheme="https://goldbro.top/tags/Photo/"/>
+    
+  </entry>
   
   <entry>
     <title>test</title>

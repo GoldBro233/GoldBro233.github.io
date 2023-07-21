@@ -60,13 +60,13 @@
     </div>
     <div class="contents" id="nav-content">
         <ul>
-            <li  class=active >
+            <li >
                 <a href="/">
                     <i class="iconfont icon-shouye1"></i>
                     <span>主页</span>
                 </a>
             </li>
-            <li >
+            <li  class=active >
                 <a href="/tags">
                     <i class="iconfont icon-biaoqian1"></i>
                     <span>标签</span>
@@ -126,47 +126,53 @@
     <div class="index-middle">
         <!-- Main Content -->
         
-<div class="post-preview-container" style="min-height: 720px">
-    
-    <div class="post-preview">
-        <div class="post-time">2023-07-21</div>
-        <div class="post-info">
-            <a href="https://goldbro.top/2023/07/21/Photo-Share/">
-                <h3>
-                    Photo Share
-                </h3>
+
+
+<!-- 归档列表 -->
+
+<div class="archives-container">
+
+<div class="one-tag-list">
+                <span class="fa fa-calendar-times-o listing-seperator" id="2023">
+                    <span class="tag-text">2023</span>
+                </span>
+    <ul>
+        
+        <!-- <li class="listing-item">
+        <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        </li> -->
+        <li >
+            <span>07-21</span>
+            <i class="fa fa-angle-double-right" aria-hidden="true"></i>
+            <a href="/2023/07/21/Photo-Share/">
+                        <span>
+                            Photo Share
+                        </span>
             </a>
-            <p>
-                
-                <span>/</span>
-                
-                <a class="tag" href="/tags/#Photo" title="Photo">Photo</a>
-                <span>/</span>
-                
-                
-            </p>
-        </div>
-    </div>
-    
-    <div class="post-preview">
-        <div class="post-time">2023-07-20</div>
-        <div class="post-info">
-            <a href="https://goldbro.top/2023/07/20/test/">
-                <h3>
-                    test
-                </h3>
+            <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
+        </li>
+        
+        <!-- <li class="listing-item">
+        <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
+        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+        </li> -->
+        <li >
+            <span>07-20</span>
+            <i class="fa fa-angle-double-right" aria-hidden="true"></i>
+            <a href="/2023/07/20/test/">
+                        <span>
+                            test
+                        </span>
             </a>
-            <p>
-                
-            </p>
-        </div>
-    </div>
-    
+            <!-- <p class="post-meta">{{ post.date | date:"%Y-%m-%d" }}</p> -->
+        </li>
+        
+
+    </ul>
 </div>
-<ul class="pager">
-    
-    
-</ul>
+
+</div>
 
     </div>
 </div>
