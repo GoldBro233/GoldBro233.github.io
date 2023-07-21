@@ -6,7 +6,7 @@
   <link href="https://goldbro.top/atom.xml" rel="self"/>
   
   <link href="https://goldbro.top/"/>
-  <updated>2023-07-21T01:35:33.036Z</updated>
+  <updated>2023-07-21T02:02:25.007Z</updated>
   <id>https://goldbro.top/</id>
   
   <author>
@@ -21,16 +21,14 @@
     <link href="https://goldbro.top/2023/07/21/Photo-Share/"/>
     <id>https://goldbro.top/2023/07/21/Photo-Share/</id>
     <published>2023-07-21T00:30:00.000Z</published>
-    <updated>2023-07-21T01:35:33.036Z</updated>
+    <updated>2023-07-21T02:02:25.007Z</updated>
     
-    <content type="html"><![CDATA[<meta name="referrer" content="https://weibo.com" /><p>上传一张照片来测试一下图床功能。<br>所使用的是微博图床。<br>照片使用的是 Canon 500D 28mm-F1.8<br><img src="http://tva1.sinaimg.cn/large/007LhBADgy1hg480c8l63j33o02g0qv8.jpg" alt="樱花-9.jpg"></p>]]></content>
+    <content type="html"><![CDATA[<p>上传一张照片来测试一下图床功能。<br>所使用的是微博图床。<br>照片使用的是 Canon 500D 28mm-F1.8<br><img src="https://image.baidu.com/search/down?url=http://tva1.sinaimg.cn/large/007LhBADgy1hg480c8l63j33o02g0qv8.jpg" alt="樱花-9.jpg"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;meta name=&quot;referrer&quot; content=&quot;https://weibo.com&quot; /&gt;
-
-&lt;p&gt;上传一张照片来测试一下图床功能。&lt;br&gt;所使用的是微博图床。&lt;br&gt;照片使用的是 Canon 500D 28mm-F1.8&lt;br&gt;&lt;img src=&quot;http://t</summary>
+    <summary type="html">&lt;p&gt;上传一张照片来测试一下图床功能。&lt;br&gt;所使用的是微博图床。&lt;br&gt;照片使用的是 Canon 500D 28mm-F1.8&lt;br&gt;&lt;img src=&quot;https://image.baidu.com/search/down?url=http://tva1.sinaimg.cn</summary>
       
     
     
