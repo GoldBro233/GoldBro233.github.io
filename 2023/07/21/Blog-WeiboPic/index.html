@@ -160,7 +160,7 @@
 <h1 id="微博图床的解决方法：折腾不停，肯定能行"><a href="#微博图床的解决方法：折腾不停，肯定能行" class="headerlink" title="微博图床的解决方法：折腾不停，肯定能行"></a>微博图床的解决方法：折腾不停，肯定能行</h1><p>在互联网上开始寻找各种资料后，我终于是发现了一些办法能够解决这个问题。</p>
 <h2 id="改变请求头"><a href="#改变请求头" class="headerlink" title="改变请求头"></a>改变请求头</h2><p>简单来说，可以改变网页请求头的referer，来使微博的服务器能够认证，请求图片。<br>可以在post的markdown文件中加入如下这行：</p>
 <figure class="highlight abnf"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;meta name<span class="operator">=</span><span class="string">&quot;referrer&quot;</span> content<span class="operator">=</span><span class="string">&quot;no-referrer&quot;</span> /&gt;</span><br></pre></td></tr></table></figure>
-<p>这行代码的目的就是为了阻止浏览器发送Referer，从而能够正常的访问微博图床。<br>但是这个方法，无法在本地写博客时看到图片的样式，多少还是有些局限。</p>
+<p>这行代码的目的就是为了阻止浏览器发送Referer，从而能够正常的访问微博图床。<br>但是这个方法，无法在本地写博客时看到图片的样式，同时也是只能够在本地实现，多少还是有些局限。</p>
 <h2 id="利用图片缓存"><a href="#利用图片缓存" class="headerlink" title="利用图片缓存"></a>利用图片缓存</h2><p>在网络上寻找资料时，无意中看到了这篇文章。<br><img src="https://image.baidu.com/search/down?url=http://tva1.sinaimg.cn/large/007LhBADly1hg4h7a02edj30jt0eldln.jpg" alt="屏幕截图 2023-07-21 134626.png" title="2023 年微博图床 403 全失效，一个方法秒解决！"><br>在文章中提到了可以使用百度的图片缓存来使微博图床的图片正常使用。如下是使用方法：</p>
 <figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https:<span class="regexp">//im</span>age.baidu.com<span class="regexp">/search/</span>down?url=你的图片链接</span><br></pre></td></tr></table></figure>
 <p>具体的各位还是进入这篇文章中自行探索吧。</p>
@@ -262,7 +262,7 @@
   data-reactions-enabled="1"
   data-emit-metadata="0"
   data-input-position="bottom"
-  data-theme="dark"
+  data-theme="light"
   data-lang="zh-CN"
   crossorigin="anonymous"
   async>
